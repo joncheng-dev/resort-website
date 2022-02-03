@@ -1,22 +1,22 @@
 h1 {
-  color:black;
+  color:indigo;
   text-align: center;
 }
 
 h2 {
-  color:black;
+  color:lightsalmon;
   text-align: center;
 }
 
 h3 {
-  color:black;
+  color:lightpink;
 }
 
 body {
-  background-color: white;
+  background-color: lightgoldenrodyellow;
 }
 
 p {
-  color:black;
+  color:indianred;
   font-size: larger;
 }
