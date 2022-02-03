@@ -1,22 +1,22 @@
 h1 {
-  color:black;
+  color:aquamarine;
   text-align: center;
 }
 
 h2 {
-  color:black;
+  color:gold;
   text-align: center;
 }
 
 h3 {
-  color:black;
+  color:teal;
 }
 
 body {
-  background-color: white;
+  background-color: peachpuff;
 }
 
 p {
-  color:black;
+  color:orangered;
   font-size: larger;
 }
